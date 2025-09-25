@@ -6,7 +6,6 @@
   "scripts": {
     "setup": "node setup_db.js",
     "start:vuln": "node app_vuln.js",
-    "start:secure": "node app_secure.js"
   },
   "keywords": ["sqli","lab","security","nodejs","sqlite"],
   "author": "",
@@ -19,3 +18,4 @@
     "sqlite3": "^5.1.6"
   }
 }
+
