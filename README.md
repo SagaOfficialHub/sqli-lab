@@ -30,8 +30,8 @@ node app_vuln.js
 ```
 
 6. Open the lab in your browser:\
-Login page: `http://localhost:3000/login`
-Register page: `http://localhost:3000/register`
+- Login page: `http://localhost:3000/login`
+- Register page: `http://localhost:3000/register`
 
 ## Usage 
 1. Create test accounts with register.html or use default credintal:`admin/adminpass, alice/alice123, bob/bob456`.
